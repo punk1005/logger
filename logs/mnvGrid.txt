@@ -1,0 +1,1066 @@
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 14:43:31
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "MNVParam": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 14:47:58
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "MNVParam": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 14:48:32
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "MNVParam": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 14:51:18
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "MNVParam": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 14:54:02
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "MNVParam": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 14:55:05
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "MNVParam": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 14:55:06
+{
+  "draw": 2,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "MNVParam": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 14:55:09
+{
+  "draw": 3,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "MNVParam": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 14:55:11
+{
+  "draw": 4,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "MNVParam": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 14:55:13
+{
+  "draw": 5,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "MNVParam": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:37:39
+{
+  "draw": 6,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "MNVParam": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:38:28
+{
+  "draw": 7,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "MNVParam": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:45:28
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {}
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:45:41
+{
+  "draw": 2,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "a": 6643769,
+    "b": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:46:14
+{
+  "draw": 3,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "a": 10403445,
+    "b": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:46:15
+{
+  "draw": 4,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "a": 17157067,
+    "b": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:46:19
+{
+  "draw": 5,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "a": 10403444,
+    "b": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:46:21
+{
+  "draw": 6,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "a": 6289729,
+    "b": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:46:23
+{
+  "draw": 7,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "a": 21008162,
+    "b": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:46:25
+{
+  "draw": 8,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "a": 22726956,
+    "b": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:46:27
+{
+  "draw": 9,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "a": 19386968,
+    "b": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:46:29
+{
+  "draw": 10,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "a": 19950274,
+    "b": 0
+  }
+}
+
+/*****// Запрос /mnvGrid, Дата - 2026-06-26, время - 15:47:59
+{
+  "draw": 11,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "num",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "a": 24520937,
+    "b": 0
+  }
+}
+

@@ -1,0 +1,58 @@
+{
+  "draw": 3,
+  "start": 0,
+  "length": 10,
+  "search": { "value": "", "regex": false },
+  "columns": [
+    { "data": "id", "searchable": true, "orderable": true, "search": { "value": "" } },
+    { "data": "name", "searchable": true, "orderable": true, "search": { "value": "" } },
+    { "data": "role", "searchable": true, "orderable": true, "search": { "value": "manager" } }
+  ],
+  "order": [
+    { "column": 1, "dir": "desc" }
+  ]
+}
+{
+  "draw": 3,
+  "start": 0,
+  "length": 10,
+  "search": { "value": "", "regex": false },
+  "columns": [
+    { "data": "id", "searchable": true, "orderable": true, "search": { "value": "" } },
+    { "data": "name", "searchable": true, "orderable": true, "search": { "value": "" } },
+    { "data": "role", "searchable": true, "orderable": true, "search": { "value": "manager" } }
+  ],
+  "order": [
+    { "column": 1, "dir": "desc" }
+  ]
+}
+был запрос /testData, дата - 2026-06-25, время - 15:31:00
+{
+  "draw": 3,
+  "start": 0,
+  "length": 10,
+  "search": { "value": "", "regex": false },
+  "columns": [
+    { "data": "id", "searchable": true, "orderable": true, "search": { "value": "" } },
+    { "data": "name", "searchable": true, "orderable": true, "search": { "value": "" } },
+    { "data": "role", "searchable": true, "orderable": true, "search": { "value": "manager" } }
+  ],
+  "order": [
+    { "column": 1, "dir": "desc" }
+  ]
+}
+/*****// Запрос /testData, Дата - 2026-06-25, время - 15:31:56
+{
+  "draw": 3,
+  "start": 0,
+  "length": 10,
+  "search": { "value": "", "regex": false },
+  "columns": [
+    { "data": "id", "searchable": true, "orderable": true, "search": { "value": "" } },
+    { "data": "name", "searchable": true, "orderable": true, "search": { "value": "" } },
+    { "data": "role", "searchable": true, "orderable": true, "search": { "value": "manager" } }
+  ],
+  "order": [
+    { "column": 1, "dir": "desc" }
+  ]
+}

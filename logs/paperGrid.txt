@@ -1,0 +1,3145 @@
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:22:16
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:22:31
+{
+  "draw": 2,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 2,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:22:32
+{
+  "draw": 3,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 38,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:29:16
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:29:40
+{
+  "draw": 2,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 118,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:30:43
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:32:50
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {}
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:35:28
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {}
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:36:32
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {}
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:36:42
+{
+  "draw": 2,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 112,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {}
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:36:51
+{
+  "draw": 3,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 160,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {}
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:36:52
+{
+  "draw": 4,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 108,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {}
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:37:35
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {}
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:37:41
+{
+  "draw": 2,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 60,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {}
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:37:42
+{
+  "draw": 3,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 102,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {}
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:40:01
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:40:06
+{
+  "draw": 2,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 12,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 11:40:06
+{
+  "draw": 3,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 54,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:11
+{
+  "draw": 4,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 22,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:12
+{
+  "draw": 5,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:14
+{
+  "draw": 6,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 86,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:15
+{
+  "draw": 7,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 134,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:15
+{
+  "draw": 8,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 186,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:16
+{
+  "draw": 9,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 230,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:17
+{
+  "draw": 10,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 272,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:19
+{
+  "draw": 11,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 14902,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:21
+{
+  "draw": 12,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 5496,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:23
+{
+  "draw": 13,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 5376,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:24
+{
+  "draw": 14,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 1442,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:26
+{
+  "draw": 15,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:27
+{
+  "draw": 16,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 954,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:29
+{
+  "draw": 17,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 916,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:29
+{
+  "draw": 18,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 880,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:30
+{
+  "draw": 19,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 764,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:31
+{
+  "draw": 20,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 716,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:32
+{
+  "draw": 21,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 668,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:33
+{
+  "draw": 22,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 620,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:33
+{
+  "draw": 23,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 578,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:34
+{
+  "draw": 24,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 524,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:34
+{
+  "draw": 25,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 488,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:36
+{
+  "draw": 26,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 372,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:38
+{
+  "draw": 27,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 134,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:39
+{
+  "draw": 28,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 166,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:40
+{
+  "draw": 29,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 208,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:41
+{
+  "draw": 30,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 244,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:14:42
+{
+  "draw": 31,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 286,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:28:27
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:35:09
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:35:46
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:37:42
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:37:59
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:39:58
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:40:35
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:41:56
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:43:30
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:47:58
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:48:32
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:51:18
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:54:02
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 14:55:04
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 15:45:27
+{
+  "draw": 1,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 0,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 15:46:12
+{
+  "draw": 2,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 54,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 15:46:17
+{
+  "draw": 3,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 92,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 15:46:21
+{
+  "draw": 4,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 124,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 15:46:22
+{
+  "draw": 5,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 166,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 15:46:25
+{
+  "draw": 6,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 202,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 15:46:26
+{
+  "draw": 7,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 234,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
+/*****// Запрос /paperGrid, Дата - 2026-06-26, время - 15:46:28
+{
+  "draw": 8,
+  "columns": [
+    {
+      "data": "id",
+      "name": "",
+      "searchable": false,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    },
+    {
+      "data": "nom",
+      "name": "",
+      "searchable": true,
+      "orderable": true,
+      "search": {
+        "value": "",
+        "regex": false,
+        "fixed": []
+      }
+    }
+  ],
+  "order": [
+    {
+      "column": 0,
+      "dir": "asc",
+      "name": ""
+    }
+  ],
+  "start": 262,
+  "length": 75,
+  "search": {
+    "value": "",
+    "regex": false,
+    "fixed": []
+  },
+  "gridParams": {
+    "paper_param_1": 1,
+    "paper_param_2": 0
+  }
+}
+
